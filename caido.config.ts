@@ -14,7 +14,7 @@ export default defineConfig({
   name: "Nomad IP",
   description:
     "Rotate source IP using AWS API Gateway to bypass IP-based blocking",
-  version: "0.1.2",
+  version: "0.1.3",
   author: {
     name: "Caido Labs Inc.",
     email: "dev@caido.io",
