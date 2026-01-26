@@ -1,0 +1,11 @@
+# Javascript/Typescript
+node_modules
+dist
+
+# Secrets
+.env
+
+# Other 
+.DS_Store
+.claude/settings.local.json
+opencode.json

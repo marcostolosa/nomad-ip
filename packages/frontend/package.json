@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "@caido/primevue": "0.3.3",
+    "@nomad-ip/shared": "workspace:*",
+    "pinia": "^2.1.7",
+    "primevue": "4.1.0",
+    "vue": "3.5.11"
+  },
+  "devDependencies": {
+    "@caido/sdk-backend": "0.55.1",
+    "@caido/sdk-frontend": "0.55.1",
+    "@codemirror/view": "6.28.1",
+    "backend": "workspace:*",
+    "vue-tsc": "2.0.29"
+  }
+}
